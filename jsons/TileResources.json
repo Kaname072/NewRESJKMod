@@ -3,8 +3,6 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
 		"production": 1,
-		"improvement": "Annex Village",
-		"improvementStats": {"production": 2},
 		"uniques": ["Generated on every [9] tiles <in [{Featureless} {Plains}] tiles>",
 					"Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 }
