@@ -2,9 +2,9 @@
 "name": "Village",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
-		"food": 1,
-		"improvement": "Pasture",
-		"improvementStats": {"production": 1},
-		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
-					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
+		"production": 1,
+		"improvement": "Annex Village",
+		"improvementStats": {"production": 2},
+		"uniques": ["Generated on every [9] tiles <in [{Featureless} {Grassland}] tiles>",
+					"Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
 }
